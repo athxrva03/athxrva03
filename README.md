@@ -26,4 +26,4 @@ I'm a B.Tech Information Technology student (Batch of '27) based in India, passi
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/atharva-rathore](https://linkedin.com/in/atharva-rathore) *(Drop your exact link here!)*
+* **LinkedIn:** www.linkedin.com/in/atharva-rathore-9135362a2
