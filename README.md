@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi there, I'm Atharva Rathore! 👋
 
-<!--
-**athxrva03/athxrva03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=athxrva03&style=flat-square&color=blue" alt="Profile views" />
+</p>
 
-Here are some ideas to get you started:
+I'm a B.Tech Information Technology student (Batch of '27) based in India, passionate about building robust backend architectures, scalable systems, and exploring IoT solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+* **Languages:** Java, C++, JavaScript, SQL, HTML/CSS
+* **Frameworks & Libraries:** Spring Boot, Maven
+* **Databases & Tools:** MySQL Server, IntelliJ IDEA, Git, Wokwi Simulator
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=athxrva03&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athxrva03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Connect with Me
+* **LinkedIn:** [linkedin.com/in/atharva-rathore](https://linkedin.com/in/atharva-rathore) *(Drop your exact link here!)*
